@@ -1,1 +1,11 @@
 
+    body{
+      
+     background-color: tan;
+      color: red;
+      font-family:'chalkduster', sans-serif;
+      background-image:url(http://i.imgur.com/bubt8WJ.jpg);
+      background-size: cover;
+    }
+    font-family: 'Sigmar One', cursive;
+  
