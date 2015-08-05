@@ -1,5 +1,5 @@
 
-    body{
+   body{
       
      background-color: tan;
       color: red;
@@ -7,5 +7,7 @@
       background-image:url(http://i.imgur.com/bubt8WJ.jpg);
       background-size: cover;
     }
+    h1 {
+      color: #f00;
     font-family: 'Sigmar One', cursive;
-  
+    }
