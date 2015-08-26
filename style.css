@@ -8,26 +8,36 @@
       background-image:url(http://i.imgur.com/bubt8WJ.jpg);
       background-size: cover;
     }
-    h1 {
-      color: #f00;
-    font-family: 'Sigmar One', cursive;
-    font-size: 72px ;
-    }
-    nav a{
-       color: #FFF;
-       text-decoration: none;
-       background-color: rgba(255, 0, 0, 0.64);
-       border-radius: 3px;
-       padding: 5px;
-    }
-       nav a:visited{
-          color: #FFF;
-       }
-       section {
+   h1 {
+color: #F00;
+font-family: 'Lobster', cursive;
+font-size: 48px;
+}
+
+nav {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+nav a{
+  color: #FFF;
+  text-decoration: none;
+  background-color: rgba(255, 0, 0, 0.64);
+  border-radius: 3px;
+  padding: 5px;
+  margin: 10px;
+}
+
+nav a:visited{
+  color: #FFF;
+}
+
+section {
   background-color: red;
-  height: 500px;
+  height: 250px;
   width: 100%;
 }
 
-
+   
 
