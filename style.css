@@ -23,3 +23,11 @@
        nav a:visited{
           color: #FFF;
        }
+       section {
+  background-color: red;
+  height: 500px;
+  width: 100%;
+}
+
+
+
