@@ -1,3 +1,11 @@
+<style> 
+iframe {
+  width: 80%;
+  height: 500px;
+  margin: 0 auto;
+  display: block;
+}
+</style>
 body {
 margin: 0;  
 text-align: center;
