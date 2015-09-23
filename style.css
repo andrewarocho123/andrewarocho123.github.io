@@ -5,7 +5,10 @@ text-align: center;
 background-color: GhostWhite;
 color: #212121;
 font-family: 'Open Sans', sans-serif;
-      background-image: url("http://blueskywebsite.com/wp-content/uploads/2012/08/New-York-City-2012-284.jpg");
+     
+    }
+    html {
+          background-image: url("http://blueskywebsite.com/wp-content/uploads/2012/08/New-York-City-2012-284.jpg");
       background-size: cover;
     }
    h1 {
